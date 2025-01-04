@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamish Mcdonald</h1>
-<h3 align="center">A passionate fullstack developer from Victoria, Australia</h3>
+<h3 align="center">A passionate fullstack developer from Victoria, Australia. I work alongside one of my close friends on many projects under the name Generic Cursed Dev</h3>
 
 - 🔭 I’m currently working on [GPM (generic package manager)](https://git.genericcursed.com/GCD/GPM)
+
+- 📫 How to reach me **hamish@genericcursed.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
